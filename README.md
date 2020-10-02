@@ -5,7 +5,8 @@ Analysis of Kickstarter data to uncover trends. This analysis used data from tho
 ![Outcomes_launch](Outcomes Based on Launch Date.png)
 
 
-![Parent_outcomes](Parent Category Outcomes.png)
+![Parent_outcomes](ParentCategoryOutcomes.png)
+
 
 
 
