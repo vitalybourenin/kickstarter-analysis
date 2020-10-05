@@ -9,10 +9,12 @@ of these campaigns. A challenge in working with this dataset is that for many of
 
 To look at outcomes of Kickstarters based on their launch date, a pivot table was used to filter the dataset into only Kickstarters launched by theaters, and further,
 the results were broken down monthly, showing a total number of successes, failures, and cancellations for each month for the entire life of the dataset. 
+![Outcomes_Date](OutcomesBasedonLaunchDate.png)
 
 *Analysis of Outcomes Based on Goals
 
 To perform the analysis of outcomes based on goals, I created a table breaking down the initial goals of the campaigns into subcategories, and showing how many successes, failures and cancellations there were for each subcategory of monetary goal. Next percentage calculations were taken to better see how these campaigns performed relative to their initial goal. 
+![Outcomes_Goals](Outcomes_vs_Goals.png)
 
 ### Results
 When looking at outcomes of Kickstarters based on Launch Date, crowdfunding for theaters is more common and more successful in the late spring and summer months. May through July have been the most succesful months for
