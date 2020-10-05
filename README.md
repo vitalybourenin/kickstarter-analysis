@@ -9,7 +9,7 @@ of these campaigns. A challenge in working with this dataset is that for many of
 
 To look at outcomes of Kickstarters based on their launch date, a pivot table was used to filter the dataset into only Kickstarters launched by theaters, and further,
 the results were broken down monthly, showing a total number of successes, failures, and cancellations for each month for the entire life of the dataset. 
-![Outcomes_Date](OutcomesBasedonLaunchDate.png)
+![Outcomes_Date]
 
 *Analysis of Outcomes Based on Goals
 
